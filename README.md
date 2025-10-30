@@ -1,4 +1,4 @@
-Coin-Flip app
+# Coin-Flip app
 
 ![CBE95635-A904-448D-9714-E9CEABE11A8E](https://github.com/user-attachments/assets/c3df4580-e72b-4db8-95eb-7381fa3f3f15)
 
